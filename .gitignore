@@ -1,0 +1,8 @@
+*.log
+*.pyc
+**/__pycache__/
+.env
+.DS_Store
+.vscode/
+docker/qtcrossbuildApp.tar
+push_to_github.sh
